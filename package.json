@@ -1,0 +1,21 @@
+{
+  "name": "sunnyside-agency-landing-page-main",
+  "version": "1.0.0",
+  "description": "![Design preview for the Sunnyside agency landing page coding challenge](./design/desktop-preview.jpg)",
+  "main": "index.js",
+  "scripts": {
+    "postcss": "postcss ./css/main.css --output style.css --watch"
+  },
+  "keywords": [],
+  "author": "Neljohn-Cerera",
+  "license": "ISC",
+  "devDependencies": {
+    "postcss": "^8.4.16",
+    "postcss-cli": "^10.0.0",
+    "postcss-custom-media": "^8.0.2",
+    "postcss-custom-selectors": "^6.0.3",
+    "postcss-flexbugs-fixes": "^5.0.2",
+    "postcss-import": "^14.1.0",
+    "postcss-preset-env": "^7.8.0"
+  }
+}
